@@ -1,0 +1,1 @@
+This repository is meant for exercise completion as a part of microsoft learn course https://learn.microsoft.com/en-us/training/modules/run-evaluations-generate-synthetic-datasets/2-prepare?tabs=github-codespaces
