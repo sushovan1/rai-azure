@@ -1,1 +1,2 @@
 This repository is meant for exercise completion as a part of microsoft learn course https://learn.microsoft.com/en-us/training/modules/run-evaluations-generate-synthetic-datasets/2-prepare?tabs=github-codespaces
+The course link https://learn.microsoft.com/en-us/training/modules/run-evaluations-generate-synthetic-datasets/?sharingId=6A9F03F25E12DA9E&ref=collection&listId=k70xu782g8xnm4&wt.mc_id=ignitechallenge25_landingpage_wwl&WT.mc_id=cloudskillschallenge_j25rcze7yxom2m&source=learn&enrollUser=true&ns-enrollment-type=Collection&ns-enrollment-id=zwozi1jy75zoje
